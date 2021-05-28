@@ -1,4 +1,13 @@
-// Setup
+/*********************************************************************************
+* WEB422 – Assignment 1
+* I declare that this assignment is my own work in accordance with Seneca Academic Policy.
+* No part of this assignment has been copied manually or electronically from any other source
+* (including web sites) or distributed to other students.
+*
+* Name: ___ShengNi Chen______ Student ID: ____115309171___ Date: ___2021/05/28__
+* Heroku Link: ____https://web422-postman.herokuapp.com/____
+*
+********************************************************************************/ // Setup
 const RestaurantDB = require("./modules/restaurantDB.js");
 const express = require("express");
 const path = require("path");
